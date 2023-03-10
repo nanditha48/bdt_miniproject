@@ -1,0 +1,7 @@
+Spotify Data Analysis
+This was my mini project for the subject BDT (Big Data Technologies).
+Using Data Visualisation Techniques, we were able to explore the data used, famous genres , etc.
+
+Dataset Links:
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUpwQm83TnFScTZQWjVDdU5nbWdJd2RTU25VUXxBQ3Jtc0tuWjVuREJjdi1FbDBBRmRJRTBtbkkyd1Vfd0RBZFg2TWR5dFpPeS1Rel9RZ0l3dE04ZjczQUVGX2w3dy00QURKaUpqQ2tPOHdWa2stSXpucU9WSkRQdUtNel83LUZUZlVVbVQ1eHpxX1lXRmlMT2RfVQ&q=https%3A%2F%2Fwww.kaggle.com%2Fzaheenhamidani%2Fultimate-spotify-tracks-db%2Fversion%2F3&v=8d7ywKCm6HI
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0M1UlhGSHJFN2YyUmI1ekdNVVBMdEtLejc2d3xBQ3Jtc0tsZ3BzM1FlN2RLTks4QVBOSUVsYk0wMjdDM0R3RUxFSDNiSWxZOHZFZENaaGJKcXpYd1dITF9lU0ppWlFPWXpqX2VLWExCbW92elhHajBsOVZNbmpTSll6aW5fNDB2U2pBUEJMbVJrOFZqMUFGbVhnVQ&q=https%3A%2F%2Fwww.kaggle.com%2Flehaknarnauli%2Fspotify-datasets%3Fselect%3Dartists.csv&v=8d7ywKCm6HI
